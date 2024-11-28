@@ -94,31 +94,30 @@ body {
 
 .faq {
     display: flex;
-    justify-content: space-between; /* Espacio entre las columnas */
-    padding: auto;
+    justify-content: space-between; 
     max-width: 1800px;
     margin: auto;
 }
 
 .faq-columna {
-    flex: 1; /* Cada columna ocupa el mismo espacio */
+    flex: 1; 
     padding-right: 50px;
 }
 
 .faq-item {
-    margin-bottom: 50px; /* Espaciado entre preguntas */
+    margin-bottom: 50px;
 }
 
 .faq-pregunta {
     font-size: 1.2em;
     font-weight: bold;
-    color: #2ECB81; /* Color de las preguntas */
+    color: #2ECB81; 
     margin-bottom: 10px;
 }
 
 .faq-respuesta {
     font-size: 1em;
-    color: #fff; /* Color de las respuestas */
+    color: #fff; 
 }
 
 .footer {
