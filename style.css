@@ -121,9 +121,23 @@ body {
     top: 110px;
 }
 
-.img-wireframes{
+.img-mockup1{
     position: absolute;
-    top: 400px;
+    top: 450px;
+    z-index: -1;
+}
+
+.img-mockup2{
+    position: absolute;
+    top: 450px;
+    left: 300px;
+    z-index: -1;
+}
+
+.img-mockup3{
+    position: absolute;
+    top: 450px;
+    left: 600px;
     z-index: -1;
 }
 
